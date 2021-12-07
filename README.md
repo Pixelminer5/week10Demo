@@ -15,7 +15,7 @@ Favourite Games (In no particular order)
 []Finish Portfolio Development
 [x]Do the github README Task
 
-'''C++
+```C++
 #include <iostream>
 #include <string>
 using namespace std;
@@ -27,4 +27,4 @@ void comma2blank(char* textToChange) {
     }
     cout << textToChange << endl;
 }
-                                '''
+```
