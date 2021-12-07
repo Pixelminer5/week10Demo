@@ -2,7 +2,7 @@
 Uh- Today and yesterday i didnt actually eat breakfast but i had a nice steak that my flatmates cooked me
 
 [My LinkedIn Page](https://www.linkedin.com/in/kurt-lassmans-9b2817224/)
-:octocat:
+![octocat!](https://avatars.githubusercontent.com/u/583231?v=4)
 
 Favourite Games (In no particular order)
 1) Subnautica
